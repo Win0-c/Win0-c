@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](https://imgur.com/a/12clMlE)
+![Banner](https://i.imgur.com/Lq7DT8h.png)
 
 ---
 
@@ -40,23 +40,7 @@ NoMark - A tiktok video downloader with a no watermark option using a api
 
 ## My Projects  
 
-<p align="center">
-  <!-- Replace GIF with your own or static screenshots -->
-  <img src="INSERT_PROJECT1_GIF_URL" width="150" alt="Project One Demo"/>
-</p>
-
----
-
-### [Project One](INSERT_PROJECT_ONE_LINK)  
-_[One-line description of the project.]_  
-
- Features:  
-- [Feature 1]  
-- [Feature 2]  
-- [Feature 3]  
-
-🔗 [Live Link or Store Link](INSERT_LINK_HERE)  
-
+NoMark - A tiktok video downloader with a no watermark option using a api
 
 ---
 
