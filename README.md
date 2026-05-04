@@ -58,7 +58,8 @@ NoMark - A tiktok video downloader with a no watermark option using a api
 
 ## ⌛ Work in Progress  
 
-  Projects in development:  
+  Projects in development:
+  
   Onward - Script for the game onward plainly using of the android kernal using meta quest attast bypass. The scripts injects via firda gadget
   Enc533 - Python Obfusator using base64
   Enuker - Email spammer without api
