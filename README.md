@@ -29,7 +29,9 @@ I have experience in modding, where I enjoy bypassing auth in such games Animal 
 <!-- ============================= -->
 
 ## Tech & Tools  
+
 NoMark - A tiktok video downloader with a no watermark option using a api
+
 ---
 
 <!-- ============================= -->
