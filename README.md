@@ -35,7 +35,8 @@ I have experience in modding, where I enjoy bypassing auth in such games Animal 
   <img src="https://img.shields.io/badge/Python-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/C-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/C%23-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frida-pink?style=flat-square" />
+  <img src="https://img.shields.io/badge/Javascript-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frida-pink?style=flat-square" /> 
   <img src="https://img.shields.io/badge/Unity-cyan?style=flat-square" />
   <img src="https://img.shields.io/badge/ApkTool-green?style=flat-square" />
 </p>
