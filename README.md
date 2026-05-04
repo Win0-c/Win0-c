@@ -10,7 +10,7 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-# Hi, I'm Win.c 
+# 👋 Hi, I'm Win.c 
 **Bypass Auth And PWN Until Done**
 
 ---
@@ -19,7 +19,7 @@
 <!--             ABOUT ME          -->
 <!-- ============================= -->
 
-## About Me  
+## 🤙 About Me  
 I have experience in modding, where I enjoy bypassing auth in such games Animal Company, Scary BaB, Vrfs, Onward. I’ve also developed an interest in cybersecurity and how authentication systems are designed to protect applications and users. Through learning about different platforms, I’ve built an understanding of how security layers function and why they matter. This has helped me improve my technical problem-solving skills and my curiosity for how systems can be both built and protected.
 
 ---
@@ -28,9 +28,17 @@ I have experience in modding, where I enjoy bypassing auth in such games Animal 
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
 
-## Tech & Tools  
+## 💻 Languages & Tools  
 
-NoMark - A tiktok video downloader with a no watermark option using a api
+<p align="center">
+  <!-- Replace or remove badges as needed -->
+  <img src="https://img.shields.io/badge/Python-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/C-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/C%23-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frida-pink?style=flat-square" />
+  <img src="https://img.shields.io/badge/Unity-cyan?style=flat-square" />
+  <img src="https://img.shields.io/badge/ApkTool-green?style=flat-square" />
+</p>
 
 ---
 
@@ -38,7 +46,7 @@ NoMark - A tiktok video downloader with a no watermark option using a api
 <!--           MY PROJECTS         -->
 <!-- ============================= -->
 
-## My Projects  
+## 📃 My Projects  
 
 NoMark - A tiktok video downloader with a no watermark option using a api
 
@@ -48,7 +56,7 @@ NoMark - A tiktok video downloader with a no watermark option using a api
 <!--           WIP PROJECTS        -->
 <!-- ============================= -->
 
-## Work in Progress  
+## ⌛ Work in Progress  
 
   Projects in development:  
   Onward - Script for the game onward plainly using of the android kernal using meta quest attast bypass. The scripts injects via firda gadget
@@ -62,10 +70,10 @@ NoMark - A tiktok video downloader with a no watermark option using a api
 <!--          CONNECT WITH ME      -->
 <!-- ============================= -->
 
-## Socials
+## 💬 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](INSERT_LINKEDIN_URL)  
-[![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](INSERT_PERSONAL_SITE_URL)  
+[![Discord](https://img.shields.io/badge/Discord-blue?style=flat-square)](https://discord.gg/M2FxSwE5VD)  
+[![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://www.jewtools.com)  
 
 ---
 
