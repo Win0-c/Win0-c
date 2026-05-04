@@ -83,4 +83,4 @@ NoMark - A tiktok video downloader with a no watermark option using a api
 
 ## GitHub Stats  
 
-[![Win.c GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Win.c GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Win0.c)](https://github.com/pranesh-2005/github-readme-stats-fast)
